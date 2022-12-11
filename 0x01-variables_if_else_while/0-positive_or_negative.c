@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - main function to generate a random number
+ * main - assign a random number to the variable n each time it is executed
  *
- * Return: Always 0 (Success)
+ * Result: Always 0 (Success)
  */
 
 int main(void)
@@ -27,5 +27,5 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	return (0)
+	return (0);
 }
