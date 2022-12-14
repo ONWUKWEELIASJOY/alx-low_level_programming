@@ -28,6 +28,5 @@ int main(void)
 		j = k;
 		k = l;
 	}
-	
 	return (0);
 }
