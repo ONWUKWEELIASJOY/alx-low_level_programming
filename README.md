@@ -1,1 +1,1 @@
-My first C programming
+C - Debugging, a process of finding and fixing errors in software that prevents it from running correctly
